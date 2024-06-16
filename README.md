@@ -42,4 +42,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/zolydck/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/zolydck/LeetCode/tree/master/3447-clear-digits) |
+# Array
+|  |
+| ------- |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/zolydck/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
