@@ -31,3 +31,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/zolydck/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/zolydck/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+# Hash Table
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/zolydck/LeetCode/tree/master/3447-clear-digits) |
+# String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/zolydck/LeetCode/tree/master/3447-clear-digits) |
+# Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/zolydck/LeetCode/tree/master/3447-clear-digits) |
