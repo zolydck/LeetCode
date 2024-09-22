@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zolydck/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/zolydck/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -92,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zolydck/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
