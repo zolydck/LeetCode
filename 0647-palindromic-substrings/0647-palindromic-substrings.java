@@ -1,26 +1,33 @@
 class Solution {
     public int countSubstrings(String s) {
 
-        int ans = 0;
-        for(int i = 0 ; i < s.length(); i++){
-            ans += findlen(s,i,i);
-            ans += findlen(s,i,i+1);
+        //dynamic programming approach
+        boolean[][] dp = new boolean[s.length()][s.length()];
+
+        int ans= 0;
+        for(int i = 0 ; i < s.length() ; i++ , ans++){
+            dp[i][i] = true;
         }
-        return ans;
-        
-    }
 
-    int findlen(String s, int l0, int h0){
+        //for len 2
+        for(int i = 0 ; i < s.length() - 1 ; i++){
+            dp[i][i+1] = (s.charAt(i) == s.charAt(i+1));
+            ans += (dp[i][i+1] ? 1 : 0);
+        }
 
-        int res = 0;
-        while(l0 >= 0 && h0 < s.length()){
-            if(s.charAt(l0) != s.charAt(h0)){
-                break;
+        //for len 3 and more
+
+        for(int len = 3 ; len <=s.length() ; len++){
+
+
+            for(int i = 0 , j = i+len - 1 ; j < s.length() ; i++ ,j++){
+                dp[i][j] = dp[i+1][j-1] && ( s.charAt(i) == s.charAt(j));
+                ans+=(dp[i][j] ? 1 : 0);
             }
-            l0--;
-            h0++;
-            res++;
         }
-        return res;
+
+        return ans;
+
+        
     }
 }
