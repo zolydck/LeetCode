@@ -1,47 +1,36 @@
 class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
+        HashMap<Long,Integer> hm = new HashMap<>();
+        StringBuilder sb = new StringBuilder();
+        //handle edge cases
+        if(numerator == 0) return "0";
 
-        //Take care of all edge casses
-
-        //1. if numerator = 0
-        if(numerator == 0){
-            return "0";
+        if(numerator < 0 ^ denominator < 0){
+            sb.append("-");
         }
 
-        StringBuilder ans = new StringBuilder();
-
-        //2.If numerator or denominator is negative , then ans will be negative
-        if(numerator<0 ^ denominator<0){
-            ans.append("-");
-        }
-
-        //3.we convert both to positive and handle the max negative number
         long num = Math.abs(Long.valueOf(numerator));
         long denom = Math.abs(Long.valueOf(denominator));
 
-        ans.append(String.valueOf(num/denom));
-        long remainder = num%denom;
-
-        if(remainder == 0) {
-            return ans.toString();
+        sb.append(String.valueOf(num/denom));
+        long remainder = num % denom;
+        if(remainder == 0){
+            return sb.toString();
         }
-        ans.append(".");
-        HashMap<Long,Integer>hm = new HashMap<>();
-        while(remainder!=0){
-
-            //if the same number is found
+        sb.append(".");
+        while(remainder != 0){
             if(hm.containsKey(remainder)){
-                ans.insert(hm.get(remainder),"(");
-                ans.append(")");
-                return ans.toString();
+                sb.insert(hm.get(remainder),"(");
+                sb.append(")");
+                return sb.toString();
             }
-            //if not then add this number
-            hm.put(remainder,ans.length());
-            remainder*=10;
-            ans.append(String.valueOf(remainder/denom));
+            hm.put(remainder,sb.length());
+            remainder *= 10;
+            sb.append(String.valueOf(remainder/denom));
             remainder = remainder%denom;
         }
-        return ans.toString();
+
+        return sb.toString();
         
     }
 }
