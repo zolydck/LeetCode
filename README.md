@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/zolydck/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -101,14 +102,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/zolydck/LeetCode/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
