@@ -1,38 +1,31 @@
 class Solution {
-
-    int memo[];
+    Map<Integer,Integer>hm;
     public int numDecodings(String s) {
-        memo = new int[s.length()];
-        Arrays.fill(memo,-1);
-        return findAns(0,s);
+        hm = new HashMap<>();
+        return findWays(0,s);
+    }
+
+    public int findWays(int index,String s){
+        //base cases
         
-    }
-
-    public int findAns(int index,String s){
-
-       
-
-        //base case - reached the end of string
-        if(index == s.length()) return 1;
-         if(memo[index] != -1){
-            return memo[index];
+        if(index == s.length()) {
+            return 1;
+        }
+        if(s.charAt(index) == '0'){
+            return 0;
         }
 
-        if(s.charAt(index) == '0') return 0;
-
-        if(index == s.length() - 1) return 1;
-
-        int ans = findAns(index+1,s);
-        ans += (isValid(index,index+2,s) ? findAns(index+2,s) : 0);
-        memo[index] = ans;
+        if(index == s.length() - 1){
+            return 1;
+        }
+        if(hm.containsKey(index)){
+            return hm.get(index);
+        }
+        int ans = findWays(index+1,s);
+        if(Integer.parseInt(s.substring(index,index+2))<=26){
+            ans += findWays(index+2,s);
+        }
+        hm.put(index,ans);
         return ans;
-
-    }
-
-    public boolean isValid(int i,int j , String s){
-        if(Integer.parseInt(s.substring(i,j))> 0 && Integer.parseInt(s.substring(i,j)) <= 26){
-            return true;
-        }
-        return false;
     }
 }
