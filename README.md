@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/zolydck/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2470-removing-stars-from-a-string](https://github.com/zolydck/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1119-robot-bounded-in-circle](https://github.com/zolydck/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1894-merge-strings-alternately](https://github.com/zolydck/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/zolydck/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2470-removing-stars-from-a-string](https://github.com/zolydck/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
