@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/zolydck/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
