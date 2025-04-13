@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
