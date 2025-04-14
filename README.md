@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/zolydck/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/zolydck/LeetCode/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/zolydck/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/zolydck/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1119-robot-bounded-in-circle](https://github.com/zolydck/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1894-merge-strings-alternately](https://github.com/zolydck/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
@@ -161,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -171,10 +176,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/zolydck/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
