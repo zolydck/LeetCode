@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/zolydck/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1036-rotting-oranges](https://github.com/zolydck/LeetCode/tree/master/1036-rotting-oranges) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/zolydck/LeetCode/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/zolydck/LeetCode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
