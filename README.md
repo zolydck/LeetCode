@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/zolydck/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/zolydck/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/zolydck/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zolydck/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/zolydck/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/zolydck/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/zolydck/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Counting
 |  |
 | ------- |
