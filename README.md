@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zolydck/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3881-minimize-maximum-component-cost](https://github.com/zolydck/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/zolydck/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
+| [3881-minimize-maximum-component-cost](https://github.com/zolydck/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/zolydck/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zolydck/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3881-minimize-maximum-component-cost](https://github.com/zolydck/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Topological Sort
 |  |
 | ------- |
@@ -209,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zolydck/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Sort
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/zolydck/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 <!---LeetCode Topics End-->
