@@ -1,21 +1,26 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        //Less intuitive solution to sotre last seen index , so that we can skip to it
+        //Generate all substrings
+        // Longest ? so keep sliding window length constatn ?
         HashMap<Character,Integer>hm = new HashMap<>();
-        int n = s.length();
         int ans = 0;
+        int i = 0;
+        int j = 0;
+        while(j < s.length()){
 
-        for(int i= 0 , j = 0 ; j < n ; j++){
-            if(hm.containsKey(s.charAt(j))){
+            char c = s.charAt(j);
 
-                //we may have encountered a character , which is out of the current window as we don't delete elements
-                //once we cross window'
-                i = Math.max(i,hm.get(s.charAt(j)));
+            hm.put(c,hm.getOrDefault(c,0)+1);
+
+            //Iterate through the map ?
+            while(hm.get(c) > 1){
+                char r = s.charAt(i);
+                hm.put(r,hm.get(r)-1);
+                i++;
             }
-            ans = Math.max(ans,j-i+1);
-            //j+1 as we can directly start from beginning of next window i.e plan is to avoid the repeating element
-            hm.put(s.charAt(j),j+1);
+            ans = Math.max(ans,j - i + 1);
+            j++;
         }
         return ans;
         
