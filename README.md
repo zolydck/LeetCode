@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/zolydck/LeetCode/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/zolydck/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1119-robot-bounded-in-circle](https://github.com/zolydck/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zolydck/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/zolydck/LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/zolydck/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zolydck/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/zolydck/LeetCode/tree/master/0198-house-robber) |
@@ -235,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/zolydck/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/zolydck/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
