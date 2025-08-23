@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/zolydck/LeetCode/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/zolydck/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/zolydck/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/zolydck/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/zolydck/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/zolydck/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zolydck/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/zolydck/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/zolydck/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zolydck/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/zolydck/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/zolydck/LeetCode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/zolydck/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/zolydck/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/zolydck/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zolydck/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
